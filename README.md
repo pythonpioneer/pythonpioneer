@@ -1,7 +1,6 @@
 
 
-![github-header-image (7)](https://github.com/pythonpioneer/pythonpioneer/assets/85961247/634707d7-03f6-4283-9eb6-3b3ae014e5d8)
-
+![github-header-image (9)](https://github.com/pythonpioneer/pythonpioneer/assets/85961247/2c409557-c361-4ed0-8aa6-4ac138d0e080)
 
 <!--
 ![github-header-image (2)](https://github.com/pythonpioneer/pythonpioneer/assets/85961247/6ebc047c-c680-44ff-9985-70aa140a931b)
