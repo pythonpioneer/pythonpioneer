@@ -1,7 +1,8 @@
 
-![github-header-image (2)](https://github.com/pythonpioneer/pythonpioneer/assets/85961247/6ebc047c-c680-44ff-9985-70aa140a931b)
+![github-header-image (6)](https://github.com/pythonpioneer/pythonpioneer/assets/85961247/0d8b32ef-aa13-48f5-9b55-ded56c967c71)
 
 <!--
+![github-header-image (2)](https://github.com/pythonpioneer/pythonpioneer/assets/85961247/6ebc047c-c680-44ff-9985-70aa140a931b)
 **pythonpioneer/pythonpioneer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
