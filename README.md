@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://github.com/pythonpioneer/testing-md-files/assets/85961247/bc51ccca-4349-4192-a9c3-42006e2cc66f" align="right" width="250" height="100">
+<img src="https://github.com/pythonpioneer/pythonpioneer/assets/85961247/b1aecb58-1bfe-4e1f-b36b-bb221fab5af6" align="right" width="250" height="100">
 
 
 ## Info
@@ -15,9 +15,9 @@
 
 - 💬 Ask me about `JavaScript`, `Python`, `C++`, `React`, `Node` and `Express`.
 
-- 📫 How to reach me `kumarhritiksinha@gmail.com`
+- 📫 Contact me at `kumarhritiksinha@gmail.com`
 
-- 📄 Know about my experiences through my [`Resume`](https://drive.google.com/file/d/1d24yulA5iMO67eno9tmW4bURkrI40rD-/view?usp=sharing)
+- 📄 Know about my experiences through my [`Resume`](https://drive.google.com/file/d/1d24yulA5iMO67eno9tmW4bURkrI40rD-/view?usp=sharing).
 
 - ⚡ Fun fact **A programmer without writing comments will crash the whole program like a driver without indicators.**
 
@@ -28,8 +28,6 @@
 | <a href="https://twitter.com/pythonpioneer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pythonpioneer" height="30" width="40" /></a> | <a href="https://linkedin.com/in/hritik-kumar-sinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hritik-kumar-sinha" height="30" width="40" /></a> | <a href="https://www.codechef.com/users/i_am_deadpool" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/codechef.png" alt="i_am_deadpool" height="30" width="40" /></a> | <a href="https://www.hackerrank.com/anihritik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anihritik" height="30" width="40" /></a> | <a href="https://auth.geeksforgeeks.org/user/depresseddeadpool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="depresseddeadpool" height="30" width="40" /></a>
 |---|---|---|---|---|
 <img src="https://github.com/pythonpioneer/pythonpioneer/assets/85961247/5dcb5477-60fc-4f66-9032-242541485d2c" alt="linux" align="right" style="margin-right: 10px;" width="300px" />
-
-
 
 
 <br>
@@ -52,12 +50,10 @@
 
 ![Hritik's Github Stattistics](https://github-readme-stats.vercel.app/api/top-langs?username=pythonpioneer&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)<img src="https://github.com/pythonpioneer/pythonpioneer/assets/85961247/c9a3a801-c90e-4b61-9d94-977983f5e97c" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
 
-
 ![Hritik's Github Top Langs](https://readmestats.999857.xyz/api?username=pythonpioneer&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ![Hritik's Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=pythonpioneer&show_icons=true_color=fff&theme=dark)
 <img src="https://github.com/pythonpioneer/pythonpioneer/assets/85961247/8402a133-d89d-42af-bc86-6942521fde28" width="200" height="250" style="overflow: visible;">
-
 
 
 ## Visitors Counts
