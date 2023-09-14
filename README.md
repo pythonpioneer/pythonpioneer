@@ -27,7 +27,10 @@
 
 | <a href="https://twitter.com/pythonpioneer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pythonpioneer" height="30" width="40" /></a> | <a href="https://linkedin.com/in/hritik-kumar-sinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hritik-kumar-sinha" height="30" width="40" /></a> | <a href="https://www.codechef.com/users/i_am_deadpool" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/codechef.png" alt="i_am_deadpool" height="30" width="40" /></a> | <a href="https://www.hackerrank.com/anihritik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anihritik" height="30" width="40" /></a> | <a href="https://auth.geeksforgeeks.org/user/depresseddeadpool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="depresseddeadpool" height="30" width="40" /></a>
 |---|---|---|---|---|
-<img src="https://github.com/pythonpioneer/testing-md-files/assets/85961247/5cde6062-b66a-4fd1-ba21-335b0bd12bb7" alt="linux" align="right" style="margin-right: 10px;" width="300px" />
+<img src="https://github.com/pythonpioneer/pythonpioneer/assets/85961247/5dcb5477-60fc-4f66-9032-242541485d2c" alt="linux" align="right" style="margin-right: 10px;" width="300px" />
+
+
+
 
 <br>
 
@@ -47,7 +50,8 @@
 
 ## Github Statistics
 
-![Hritik's Github Stattistics](https://github-readme-stats.vercel.app/api/top-langs?username=pythonpioneer&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)<img src="https://github.com/pythonpioneer/testing-md-files/assets/85961247/33537b5e-2944-4f09-b92c-1b62ab24a79d" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
+![Hritik's Github Stattistics](https://github-readme-stats.vercel.app/api/top-langs?username=pythonpioneer&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)<img src="https://github.com/pythonpioneer/pythonpioneer/assets/85961247/c9a3a801-c90e-4b61-9d94-977983f5e97c" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
+
 
 ![Hritik's Github Top Langs](https://github-readme-stats.vercel.app/api?username=pythonpioneer&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
