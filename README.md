@@ -11,7 +11,7 @@
 
 ## Info
 
-- 👨‍💻 Find my projects [`Here`](https://github.com/pythonpioneerhttps://github.com/pythonpioneer).
+- 👨‍💻 Find my projects [`Here`](https://github.com/pythonpioneer).
 
 - 💬 Ask me about `JavaScript`, `Python`, `C++`, `React`, `Node` and `Express`.
 
