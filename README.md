@@ -2,7 +2,7 @@
 
 
 ## Github Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=pythonpioneer&theme=onedark)](https://github.com/pythonpioneer/github-profile-trophy) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=pythonpioneer&theme=onedark)](https://github.com/pythonpioneer) 
 
 <br>
 
