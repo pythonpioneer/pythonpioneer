@@ -15,7 +15,7 @@
 
 - 💬 Ask me about `JavaScript`, `Python`, `C++`, `React`, `Node` and `Express`.
 
-- 📫 Contact me at `kumarhritiksinha@gmail.com`
+- 📫 Contact me at <a href="mailto: kumarhritiksinha@gmail.com" >`kumarhritiksinha@gmail.com`</a>
 
 - 📄 Know about my experiences through my [`Resume`](https://drive.google.com/file/d/1d24yulA5iMO67eno9tmW4bURkrI40rD-/view?usp=sharing).
 
