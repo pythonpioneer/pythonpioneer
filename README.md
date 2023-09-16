@@ -1,5 +1,5 @@
 ![github-header](./dr.png#gh-dark-mode-only)
-
+![github-header](./lt.png#gh-light-mode-only)
 
 
 ## Github Trophies
