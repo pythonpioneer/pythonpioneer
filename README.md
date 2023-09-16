@@ -1,4 +1,4 @@
-<img width="1119" alt="github-header" src="https://github.com/pythonpioneer/pythonpioneer/assets/85961247/63f1d6ac-e0b2-4811-be00-a49719db970f">
+<img width="1119" alt="github-header" src="https://github.com/pythonpioneer/pythonpioneer/assets/85961247/f20f9a82-0bbf-46c8-9bed-52670ada7b26">
 
 
 ## Github Trophies
