@@ -1,5 +1,4 @@
-
-<img width="730" alt="Screenshot 2023-09-16 at 10 04 14 PM" src="https://github.com/pythonpioneer/pythonpioneer/assets/85961247/2d3e4c72-2cc7-4ecc-9d58-3588e6026ddf">
+![github-header](https://github.com/pythonpioneer/pythonpioneer/assets/85961247/618b69b4-c179-420d-8042-44e0940ece58#gh-dark-mode-only)
 
 
 ## Github Trophies
