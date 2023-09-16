@@ -1,4 +1,5 @@
-![github-header](https://github.com/pythonpioneer/pythonpioneer/assets/85961247/618b69b4-c179-420d-8042-44e0940ece58#gh-dark-mode-only)
+![github-header](./dr.png#gh-dark-mode-only)
+
 
 
 ## Github Trophies
