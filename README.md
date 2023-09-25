@@ -7,7 +7,7 @@
 
 <br>
 
-<img src="https://github.com/pythonpioneer/pythonpioneer/assets/85961247/b1aecb58-1bfe-4e1f-b36b-bb221fab5af6" align="right" width="250" height="100">
+<img src="https://github.com/pythonpioneer/pythonpioneer/assets/85961247/b1aecb58-1bfe-4e1f-b36b-bb221fab5af6" align="right" width="25%" height="105vh">
 
 
 ## Info
