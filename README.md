@@ -48,7 +48,7 @@
 
 ## Github Statistics
 
-![Hritik's Github Top used Lang](https://github-readme-stats-mu-virid.vercel.app/api/top-langs?username=pythonpioneer&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&theme=transparent)<img src="https://github.com/pythonpioneer/pythonpioneer/assets/85961247/c9a3a801-c90e-4b61-9d94-977983f5e97c" alt="dinotocat" style="float: left; margin-right: 10px;" width="30%" />
+![Hritik's Github Top used Lang](https://github-readme-stats-mu-virid.vercel.app/api/top-langs?username=pythonpioneer&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&theme=transparent)<img src="https://github.com/pythonpioneer/pythonpioneer/assets/85961247/c9a3a801-c90e-4b61-9d94-977983f5e97c" alt="dinotocat" style="float: left; margin-right: 10px;" width="300" />
 
 
 [![Hritik's GitHub stats](https://readmestats.999857.xyz/api?username=pythonpioneer\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/pythonpioneer/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
@@ -56,7 +56,7 @@
 
 
 ![Hritik's Github Streaks](https://github-readme-streak-stats-2.vercel.app/?user=pythonpioneer&show_icons=true_color=fff&theme=transparent)
-<img src="https://github.com/pythonpioneer/pythonpioneer/assets/85961247/8402a133-d89d-42af-bc86-6942521fde28" width="30%" height="250vh" style="float: left;">
+<img src="https://github.com/pythonpioneer/pythonpioneer/assets/85961247/8402a133-d89d-42af-bc86-6942521fde28" width="30%" height="260vh" style="float: left;">
 
 
 ## Visitors Counts
