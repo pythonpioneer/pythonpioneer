@@ -23,7 +23,7 @@
     ```
     ui/46-home-page
     ```
-        fix/21-submit-not-working
+      fix/21-submit-not-working
     ```
     feature/15-copy-to-clipboard
   
