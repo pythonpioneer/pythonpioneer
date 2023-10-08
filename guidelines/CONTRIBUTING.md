@@ -3,7 +3,8 @@
 ## Welcome to PythonPioneer!
 Thank you for considering contributing to our project! We welcome contributions from the community and appreciate your help in making our project better.
 
-Before you get started, please take a moment to read and understand these guidelines. By participating, you agree to adhere to these rules and contribute positively and constructively to our project.
+Before you get started, please take a moment to read and understand these guidelines. By participating, you agree to adhere to these rules and contribute positively and constructively to our project. 
+> Note: also read the project's readme.md file, to know about the project.
 
 ## Reporting Issues
 If you encounter a bug, have a question, or want to request a new feature, please open an issue on our GitHub repository. When reporting issues, please provide as much detail as possible to help us understand and reproduce the problem. In most cases the issue template will be there, fill all the applicable fields and fill NA to the fields left.
@@ -65,7 +66,7 @@ feature/46-copy-to-clipboard
 Coding Style and Guidelines:
 
 - **`Coding Style Guide:`** Follow all best practices and conventions for the Framework or the languages.
-- **`Indentation and Formatting:`** Use '4' spaces for the indentation and follow all the best practices suited for the language and the framework.
+- **`Indentation and Formatting:`** Use `'4' spaces` for the indentation and follow all the best practices suited for the language and the framework.
 - **`Naming Conventions:`**  Follow the suited conventions for the framework or the language, like Python follows snake_case and JavaScript follows camelCase and for classes we use PascalCase.
 - **`Comments and Documentation:`** We know the importance of comments, and write comments to describe the code and why the code is written, especially for the complex or non-intuitive code sections. It is necessary to document the classes and functions.
 - **`File Organization:`** Contributing to PythonpPioneer, the file structure is already there you just need to follow the file structure to help to maintain the code quality.
