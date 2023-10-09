@@ -58,7 +58,7 @@ Branching Style is provided for all types of issues:
 I like to add some examples of branches:
 ```
 ui/12-home-page
-doc/65-update-docs
+docs/65-update-docs
 fix/23-submit-not-working
 feature/46-copy-to-clipboard
 ```
