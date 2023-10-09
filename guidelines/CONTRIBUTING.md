@@ -12,7 +12,7 @@ Before you start contributing to this project, please review the `LICENSE` file 
 You can find the license file under the project's readme file.
 
 ## Reporting Issues
-If you encounter a bug, have a question, or want to request a new feature, please open an issue on our GitHub repository. When reporting issues, please provide as much detail as possible to help us understand and reproduce the problem. In most cases the issue template will be there, fill all the applicable fields and fill NA to the fields left.
+If you encounter a bug, have a question, or want to request a new feature, please open an issue on our GitHub repository. When reporting issues, please provide as much detail as possible to help us understand and reproduce the problem. In most cases the issue template will be there, fill all the applicable fields and fill NA to the fields left or you can remove those fields.
 
 If there is no template then you can use this template 
 ```
