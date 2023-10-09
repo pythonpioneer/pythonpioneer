@@ -8,7 +8,8 @@ Before you get started, please take a moment to read and understand these guidel
 
 ## License
 
-Before you start contributing to this project, please review the [LICENSE](https://github.com/pythonpioneer/html-to-jsx/blob/jsx-converter/LICENSE) file to understand the licensing terms. By contributing to this project, you agree to abide by its terms.
+Before you start contributing to this project, please review the `LICENSE` file to understand the licensing terms. By contributing to this project, you agree to abide by its terms.
+You can find the license file under the project's readme file.
 
 ## Reporting Issues
 If you encounter a bug, have a question, or want to request a new feature, please open an issue on our GitHub repository. When reporting issues, please provide as much detail as possible to help us understand and reproduce the problem. In most cases the issue template will be there, fill all the applicable fields and fill NA to the fields left.
