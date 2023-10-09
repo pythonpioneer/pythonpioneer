@@ -6,6 +6,10 @@ Thank you for considering contributing to our project! We welcome contributions 
 Before you get started, please take a moment to read and understand these guidelines. By participating, you agree to adhere to these rules and contribute positively and constructively to our project. 
 > Note: also read the project's readme.md file, to know about the project.
 
+## License
+
+Before you start contributing to this project, please review the [LICENSE](https://github.com/pythonpioneer/html-to-jsx/blob/jsx-converter/LICENSE) file to understand the licensing terms. By contributing to this project, you agree to abide by its terms.
+
 ## Reporting Issues
 If you encounter a bug, have a question, or want to request a new feature, please open an issue on our GitHub repository. When reporting issues, please provide as much detail as possible to help us understand and reproduce the problem. In most cases the issue template will be there, fill all the applicable fields and fill NA to the fields left.
 
