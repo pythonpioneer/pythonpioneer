@@ -18,7 +18,9 @@ If there is no template then you can use this template
 ```
 ## Issue
 
-**`Issue Type:`** [Bug / Feature / Question / Documentation / Other]
+**Issue Type:** `[Bug / Feature / Question / Documentation / Other]`
+
+**Issue Category:** `[Backend / Frontend]`
 
 **`Issue Desc:`**
 Describe the issue.
