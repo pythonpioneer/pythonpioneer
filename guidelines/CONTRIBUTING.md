@@ -47,7 +47,7 @@ To maintain code consistency, please follow our Code Style Guidelines when makin
 Format to create a branch:
 
 ```
-issue-type/issue-description
+issueType/issueNumber-issueDescription
 ```
 
 Branching Style is provided for all types of issues:
