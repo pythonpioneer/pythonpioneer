@@ -18,7 +18,7 @@
 
 - 📫 Contact me at <a href="mailto: kumarhritiksinha@gmail.com" >`kumarhritiksinha@gmail.com`</a>
 
-- 📄 Know about my experiences through my [`Resume`](https://drive.google.com/file/d/1d24yulA5iMO67eno9tmW4bURkrI40rD-/view?usp=sharing).
+- 📄 Know about my experiences through my [`Resume`](https://drive.google.com/file/d/1a2jB1JD95TG4aRd-pWpIz4eebF8NHL8E/view?usp=sharing).
 
 - ⚡ Fun fact **A programmer without writing comments will crash the whole program like a driver without indicators.**
 
