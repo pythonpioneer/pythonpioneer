@@ -14,13 +14,11 @@
 
 - 👨‍💻 Find my projects [`Here`](https://github.com/pythonpioneer?tab=repositories).
 
-- 💬 Ask me about `JavaScript`, `TypeScript`, `React`, `Node`, `Jest` and `Express`.
+- 💬 Ask me about `JavaScript`, `TypeScript`, `React`, `Node`, `Jest`, `MongoDB` and `Express`.
 
 - 📫 Contact me at <a href="mailto: kumarhritiksinha@gmail.com" >`kumarhritiksinha@gmail.com`</a>
 
-- 📄 Know about my experiences through my [`Resume`](https://drive.google.com/file/d/1a2jB1JD95TG4aRd-pWpIz4eebF8NHL8E/view?usp=sharing).
-
-- ⚡ Fun fact **A programmer without writing comments will crash the whole program like a driver without indicators.**😅
+- ⚡ Fun fact **A programmer without writing comments will crash the whole program like a driver without indicators**.😅
 
 <br>
 
