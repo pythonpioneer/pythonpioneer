@@ -13,8 +13,6 @@
 
 Hi, I'm **Hritik Kumar Sinha** – a passionate **Backend Developer** who enjoys building scalable systems, robust APIs, and developer-friendly tooling. I also work on full-stack projects and love crafting solutions that are clean, fast, and well-tested.
 
----
-
 ## 💬 Tech Stack
 
 ### 🖥️ Backend
@@ -44,7 +42,6 @@ Hi, I'm **Hritik Kumar Sinha** – a passionate **Backend Developer** who enjoys
 ### 🛠️ Dev Tools & Workflow
 - `Git`, `GitHub`
 - `CI/CD Pipelines`
----
 
 ## 📁 Featured Projects
 
@@ -70,7 +67,6 @@ Hi, I'm **Hritik Kumar Sinha** – a passionate **Backend Developer** who enjoys
 ## ⚡ Fun Fact  
 > A programmer without writing comments will crash the whole program like a driver without indicators. 😅
 
----
 
 ## Connect with me
 
