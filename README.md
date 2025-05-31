@@ -60,8 +60,6 @@ Hi, I'm **Hritik Kumar Sinha** – a passionate **Backend Developer** who enjoys
 > Optimizes SEO content in WordPress editors like Elementor and Gutenberg.  
 **Stack**: React, TypeScript, WordPress Data API
 
----
-
 ## 📫 Contact
 
 - Email: [`kumarhritiksinha@gmail.com`](mailto:kumarhritiksinha@gmail.com)  
@@ -69,39 +67,10 @@ Hi, I'm **Hritik Kumar Sinha** – a passionate **Backend Developer** who enjoys
 - CodeChef: [i_am_deadpool](https://www.codechef.com/users/i_am_deadpool)  
 - GeeksForGeeks: [Contributions](https://www.geeksforgeeks.org/user/pythonpioneer/contributions/)
 
----
-
 ## ⚡ Fun Fact  
 > A programmer without writing comments will crash the whole program like a driver without indicators. 😅
 
 ---
-
-## 📁 Projects
-👨‍💻 Explore my repositories: [GitHub →](https://github.com/pythonpioneer?tab=repositories)
-
-- **Notes App** – [View on GitHub](https://github.com/pythonpioneer/my-notes-frontend)
-  > A full-stack digital note-taking app built using the MERN stack.
-
-- **RSNS - Road Safety Navigation System** – [View on GitHub](https://github.com/pythonpioneer/RSNS)
-  > Backend system to alert drivers about hazards using geospatial logic and real-time alerts.
-
-- **DefiniteSEO WordPress Plugin**
-  > SEO-focused plugin that integrates with multiple WordPress editors to help optimize content.
-
----
-
-## 📫 Contact  
-📩 Email me: [`kumarhritiksinha@gmail.com`](mailto:kumarhritiksinha@gmail.com)
-
-🌍 [CodeChef Profile](https://www.codechef.com/users/i_am_deadpool)  
-📝 [GeeksForGeeks Articles](https://www.geeksforgeeks.org/user/pythonpioneer/contributions/)
-
----
-
-## ⚡ Fun Fact  
-**A programmer without writing comments will crash the whole program like a driver without indicators.** 😅
-
-<br>
 
 ## Connect with me
 
