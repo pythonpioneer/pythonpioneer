@@ -9,16 +9,84 @@
 
 <img src="https://github.com/pythonpioneer/pythonpioneer/assets/85961247/b1aecb58-1bfe-4e1f-b36b-bb221fab5af6" align="right" width="25%" height="105vh">
 
+## 📌 Info
 
-## Info
+### 💬 Ask Me About
 
-- 👨‍💻 Find my projects [`Here`](https://github.com/pythonpioneer?tab=repositories).
+#### 🧑‍💻 Frontend
+- `JavaScript`
+- `TypeScript`
+- `React.js`
+- `Redux`
+- `HTML`, `CSS`
+- `WordPress Plugin Development` (Elementor, Gutenberg)
+- `Markdown`
 
-- 💬 Ask me about `JavaScript`, `TypeScript`, `React`, `Node`, `Jest`, `MongoDB` and `Express`.
+#### 🖥️ Backend
+- `Node.js`
+- `Express.js`
+- `MongoDB`
+- `Postgres`
+- `Mongoose`
+- `REST API Design`
+- `Authentication & Authorization`
+- `Redis`, `BullMQ`
+- `Docker`
+- `Logging`
+- `OOPS (Object-Oriented Programming)`
 
-- 📫 Contact me at <a href="mailto: kumarhritiksinha@gmail.com" >`kumarhritiksinha@gmail.com`</a>
+#### 🧪 Testing & Performance
+- `Jest`
+- `Supertest`
+- `K6` (Performance Testing)
+- `Mocking`
+- `Unit & Integration Testing`
 
-- ⚡ Fun fact **A programmer without writing comments will crash the whole program like a driver without indicators**.😅
+#### ⚙️ Dev Tools & Workflows
+- `Git & GitHub`
+- `Postman`
+- `CI/CD`
+
+#### 🧠 Concepts
+
+- `State Management`
+- `Virtual Lists`
+- `Transactions`
+- `Database Design`
+- `Indexing`
+- `Cron Job`
+- `Background Workers`
+- `Message Queues`
+- `Retry Strategies`
+- `Fail-Fast Approach`
+- `Rate Limiting`
+
+---
+
+## 📁 Projects
+👨‍💻 Explore my repositories: [GitHub →](https://github.com/pythonpioneer?tab=repositories)
+
+- **Notes App** – [View on GitHub](https://github.com/pythonpioneer/my-notes-frontend)
+  > A full-stack digital note-taking app built using the MERN stack.
+
+- **RSNS - Road Safety Navigation System** – [View on GitHub](https://github.com/pythonpioneer/RSNS)
+  > Backend system to alert drivers about hazards using geospatial logic and real-time alerts.
+
+- **DefiniteSEO WordPress Plugin**
+  > SEO-focused plugin that integrates with multiple WordPress editors to help optimize content.
+
+---
+
+## 📫 Contact  
+📩 Email me: [`kumarhritiksinha@gmail.com`](mailto:kumarhritiksinha@gmail.com)
+
+🌍 [CodeChef Profile](https://www.codechef.com/users/i_am_deadpool)  
+📝 [GeeksForGeeks Articles](https://www.geeksforgeeks.org/user/pythonpioneer/contributions/)
+
+---
+
+## ⚡ Fun Fact  
+**A programmer without writing comments will crash the whole program like a driver without indicators.** 😅
 
 <br>
 
