@@ -1,8 +1,13 @@
 ![github-header](./dr.png#gh-dark-mode-only)
 ![github-header](./lt.png#gh-light-mode-only)
 
+---
+<h2 align="center">🧠 Backend Developer | 💻 Open Source Enthusiast | 🛠️ Dev Tools Creator</h2>
+<p align="center">Clean Code · Fast Systems · Reliable APIs · Scalable Design</p>
 
-## Github Trophies
+---
+
+## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=pythonpioneer&theme=onedark&no-bg=true&margin-w=4)](https://github.com/pythonpioneer) 
 
 <br>
