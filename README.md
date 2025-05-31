@@ -13,7 +13,7 @@
 
 Hi, I'm **Hritik Kumar Sinha** – a passionate **Backend Developer** who enjoys building scalable systems, robust APIs, and developer-friendly tooling. I also work on full-stack projects and love crafting solutions that are clean, fast, and well-tested.
 
-## 💬 Tech Stack
+## 🧠 Tech Stack
 
 ### 🖥️ Backend
 - **Languages**: `JavaScript`, `TypeScript`
@@ -22,26 +22,18 @@ Hi, I'm **Hritik Kumar Sinha** – a passionate **Backend Developer** who enjoys
 - **Tools**: `Redis`, `BullMQ`, `Docker`, `Postman`
 
 ### ⚙️ Architecture & Concepts
-- `REST API Design`
-- `Authentication & Authorization`
-- `Message Queues`, `Background Workers`
-- `Retry Strategies`, `Rate Limiting`, `Fail-Fast Approach`
-- `Transactions`, `Database Indexing`
-- `Cron Jobs`, `Logging`
+- `REST APIs`, `Authentication`, `Message Queues`, `Background Workers`
+- `Retry Strategies`, `Rate Limiting`, `Fail-Fast`, `Transactions`, `Indexing`, `Cron Jobs`
 
 ### 🧪 Testing & Performance
-- `Jest`, `Supertest`
-- `Mocking`, `Unit Testing`, `Integration Testing`
-- `K6` (Performance Testing)
+- `Jest`, `Supertest`, `Mocking`, `K6`, `Integration & Unit Testing`
 
-### 🧑‍💻 Frontend
-- `React.js`, `Redux`
-- `HTML`, `CSS`, `Markdown`
-- `WordPress Plugin Dev` (Elementor, Gutenberg)
+### 💻 Frontend
+- `React.js`, `Redux`, `HTML`, `CSS`, `Markdown`
+- `WordPress Plugin Development` (Elementor, Gutenberg)
 
 ### 🛠️ Dev Tools & Workflow
-- `Git`, `GitHub`
-- `CI/CD Pipelines`
+- `Git`, `GitHub`, `CI/CD Pipelines`, `Linux`, `Terminal`
 
 ## 📁 Featured Projects
 
@@ -63,10 +55,6 @@ Hi, I'm **Hritik Kumar Sinha** – a passionate **Backend Developer** who enjoys
 - GitHub: [github.com/pythonpioneer](https://github.com/pythonpioneer)  
 - CodeChef: [i_am_deadpool](https://www.codechef.com/users/i_am_deadpool)  
 - GeeksForGeeks: [Contributions](https://www.geeksforgeeks.org/user/pythonpioneer/contributions/)
-
-## ⚡ Fun Fact  
-> A programmer without writing comments will crash the whole program like a driver without indicators. 😅
----
 
 ## Connect with me
 
@@ -97,7 +85,6 @@ Hi, I'm **Hritik Kumar Sinha** – a passionate **Backend Developer** who enjoys
 ![Hritik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pythonpioneer&show_icons=true&theme=transparent&hide_border=true)
 
 
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pythonpioneer&theme=transparent&hide_border=true)
 <img src="https://github.com/pythonpioneer/pythonpioneer/assets/85961247/8402a133-d89d-42af-bc86-6942521fde28" width="30%" height="260vh" style="float: left;">
 
@@ -105,3 +92,7 @@ Hi, I'm **Hritik Kumar Sinha** – a passionate **Backend Developer** who enjoys
 ## Visitor Counts
 
 ![VisitorCount](https://profile-counter.glitch.me/pythonpioneer/count.svg)
+
+## ⚡ Fun Fact  
+> A programmer without writing comments will crash the whole program like a driver without indicators. 😅
+---
