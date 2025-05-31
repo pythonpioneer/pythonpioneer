@@ -92,17 +92,16 @@ Hi, I'm **Hritik Kumar Sinha** – a passionate **Backend Developer** who enjoys
 
 ## Github Statistics
 
-![Hritik's Github Top used Lang](https://github-readme-stats-mu-virid.vercel.app/api/top-langs?username=pythonpioneer&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&theme=transparent)<img src="https://github.com/pythonpioneer/pythonpioneer/assets/85961247/c9a3a801-c90e-4b61-9d94-977983f5e97c" alt="dinotocat" style="float: left; margin-right: 10px;" width="300" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pythonpioneer&layout=compact&theme=transparent&hide_border=true&langs_count=8)<img src="https://github.com/pythonpioneer/pythonpioneer/assets/85961247/c9a3a801-c90e-4b61-9d94-977983f5e97c" alt="dinotocat" style="float: left; margin-right: 10px;" width="300" />
+
+![Hritik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pythonpioneer&show_icons=true&theme=transparent&hide_border=true)
 
 
-[![Hritik's GitHub stats](https://readmestats.999857.xyz/api?username=pythonpioneer\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/pythonpioneer/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-[![Hritik's GitHub stats](https://readmestats.999857.xyz/api?username=pythonpioneer\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/pythonpioneer/github-readme-stats#responsive-card-theme#gh-light-mode-only)
 
-
-![Hritik's Github Streaks](https://github-readme-streak-stats-2.vercel.app/?user=pythonpioneer&show_icons=true_color=fff&theme=transparent)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pythonpioneer&theme=transparent&hide_border=true)
 <img src="https://github.com/pythonpioneer/pythonpioneer/assets/85961247/8402a133-d89d-42af-bc86-6942521fde28" width="30%" height="260vh" style="float: left;">
 
 
-## Visitors Counts
+## Visitor Counts
 
 ![VisitorCount](https://profile-counter.glitch.me/pythonpioneer/count.svg)
