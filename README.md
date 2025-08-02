@@ -51,7 +51,7 @@ Hi, I'm **Hritik Kumar Sinha** – a passionate **Backend Developer** who enjoys
 
 ## 📫 Contact
 
-- Email: [`kumarhritiksinha@gmail.com`](mailto:kumarhritiksinha@gmail.com)  
+- Email: [`artnhrk@gmail.com`](mailto:artnhrk@gmail.com)  
 - GitHub: [github.com/pythonpioneer](https://github.com/pythonpioneer)  
 - CodeChef: [i_am_deadpool](https://www.codechef.com/users/i_am_deadpool)  
 - GeeksForGeeks: [Contributions](https://www.geeksforgeeks.org/user/pythonpioneer/contributions/)
@@ -94,5 +94,5 @@ Hi, I'm **Hritik Kumar Sinha** – a passionate **Backend Developer** who enjoys
 ![VisitorCount](https://profile-counter.glitch.me/pythonpioneer/count.svg)
 
 ## ⚡ Fun Fact  
-> A programmer without writing comments will crash the whole program like a driver without indicators. 😅
+> A programmer who doesn’t write comments is like a driver who doesn’t use indicators — eventually, someone’s going to crash. 😅
 ---
