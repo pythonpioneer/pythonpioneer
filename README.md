@@ -17,7 +17,7 @@ Hi, I'm **Hritik Kumar Sinha** – a passionate **Backend Developer** who enjoys
 ### 🖥️ Backend
 - **Languages**: `JavaScript`, `TypeScript`
 - **Frameworks**: `Node.js`, `Express.js`
-- **Databases**: `MongoDB`, `PostgreSQL`, `Mongoose`
+- **Databases**: `MongoDB`, `PostgreSQL`, `Mongoose`, `Prisma`
 - **Tools**: `Redis`, `BullMQ`, `Docker`, `Postman`
 
 ### ⚙️ Architecture & Concepts
@@ -50,10 +50,9 @@ Hi, I'm **Hritik Kumar Sinha** – a passionate **Backend Developer** who enjoys
 
 ## 📫 Contact
 
-- Email: [`artnhrk@gmail.com`](mailto:artnhrk@gmail.com)  
+- Email: [`hi@artnhrk.dev`](mailto:artnhrk@gmail.com)  
 - GitHub: [github.com/pythonpioneer](https://github.com/pythonpioneer)  
 - CodeChef: [i_am_deadpool](https://www.codechef.com/users/i_am_deadpool)  
-- GeeksForGeeks: [Contributions](https://www.geeksforgeeks.org/user/pythonpioneer/contributions/)
 
 ## Connect with me
 
