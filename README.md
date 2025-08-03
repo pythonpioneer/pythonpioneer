@@ -1,6 +1,9 @@
 ![github-header](./dr.png#gh-dark-mode-only)
 ![github-header](./lt.png#gh-light-mode-only)
 
+## 📌 About Me
+
+Hi, I'm **Hritik Kumar Sinha** – a passionate **Backend Developer** who enjoys building scalable systems, robust APIs, and developer-friendly tooling. I also work on full-stack projects and love crafting solutions that are clean, fast, and well-tested.
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=pythonpioneer&theme=onedark&no-bg=true&margin-w=4)](https://github.com/pythonpioneer) 
@@ -8,10 +11,6 @@
 <br>
 
 <img src="https://github.com/pythonpioneer/pythonpioneer/assets/85961247/b1aecb58-1bfe-4e1f-b36b-bb221fab5af6" align="right" width="25%" height="105vh">
-
-## 📌 About Me
-
-Hi, I'm **Hritik Kumar Sinha** – a passionate **Backend Developer** who enjoys building scalable systems, robust APIs, and developer-friendly tooling. I also work on full-stack projects and love crafting solutions that are clean, fast, and well-tested.
 
 ## 🧠 Tech Stack
 
