@@ -90,6 +90,7 @@ Hi, I'm **Hritik Kumar Sinha** – a passionate **Backend Developer** who enjoys
 ## Visitor Counts
 
 ![VisitorCount](https://profile-counter.glitch.me/pythonpioneer/count.svg)
+![VisitorCount](http://localhost:3400/api/v1/visitors/artnhrk?lwidth=190&height=30&variant=modern&marginLeft=100)
 
 ## ⚡ Fun Fact  
 > A programmer who doesn’t write comments is like a driver who doesn’t use indicators — eventually, someone’s going to crash. 😅
