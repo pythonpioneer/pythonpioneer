@@ -16,16 +16,17 @@ Hi, I'm **Hritik Kumar Sinha** – a passionate **Backend Developer** who enjoys
 
 ### 🖥️ Backend
 - **Languages**: `JavaScript`, `TypeScript`
-- **Frameworks**: `Node.js`, `Express.js`
-- **Databases**: `MongoDB`, `PostgreSQL`, `Mongoose`, `Prisma`
-- **Tools**: `Redis`, `BullMQ`, `Docker`, `Postman`
+- **Frameworks**: `Node.js`, `Express.js`, `Fastify`
+- **Databases**: `MongoDB`, `PostgreSQL`, `Mongoose`, `Prisma`, `Redis`
+- **Tools**: `BullMQ`, `Docker`, `Postman`, `Winston`, `Pino`
 
 ### ⚙️ Architecture & Concepts
 - `REST APIs`, `Authentication`, `Message Queues`, `Background Workers`
 - `Retry Strategies`, `Rate Limiting`, `Fail-Fast`, `Transactions`, `Indexing`, `Cron Jobs`
+- `Logging`
 
 ### 🧪 Testing & Performance
-- `Jest`, `Supertest`, `Mocking`, `K6`, `Integration & Unit Testing`
+- `Jest`, `Supertest`, `Mocking`, `K6`, `Integration & Unit Testing`, `Performance Testing`
 
 ### 💻 Frontend
 - `React.js`, `Redux`, `HTML`, `CSS`, `Markdown`
@@ -60,21 +61,11 @@ Hi, I'm **Hritik Kumar Sinha** – a passionate **Backend Developer** who enjoys
 |---|---|---|---|---|
 <img src="https://github.com/pythonpioneer/pythonpioneer/assets/85961247/5dcb5477-60fc-4f66-9032-242541485d2c" alt="linux" align="right" style="margin-right: 10px;" width="30%" />
 
-<br>
+## ✍️ Articles & Blogs
 
-## Languages and Tools
+I regularly write about backend development, system design, and performance optimization.
 
-| <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  |  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/> </a>  | <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TS" width="40" height="40"/> </a> | 
-|---|---|---|---|
-
-| <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> | <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> | <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/> </a> | <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> | <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> | <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> | <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"> |
-|---|---|---|---|---|---|---|
-
-| <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> | <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> | <a href="https://k6.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/grafana/k6/master/assets/logo.svg" alt="K6" width="40" height="40"/></a> | <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> | <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/></a> | <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a> | <a href="https://bullmq.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/95200/143832033-32e868df-f3b0-4251-97fb-c64809a43d36.png" alt="BullMQ" width="70" height="40"/></a> | <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a> | <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> | 
-|---|---|---|---|---|---|---|---|---|
-</p>
-
-<br>
+- [**Search Indexes in MongoDB**](https://www.geeksforgeeks.org/mongodb/using-relevance-based-search-and-search-indexes-in-mongodb/)
 
 ## Visitor Counts
 
