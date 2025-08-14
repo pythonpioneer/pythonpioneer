@@ -22,8 +22,7 @@ Hi, I'm **Hritik Kumar Sinha** – a passionate **Backend Developer** who enjoys
 
 ### ⚙️ Architecture & Concepts
 - `REST APIs`, `Authentication`, `Message Queues`, `Background Workers`
-- `Retry Strategies`, `Rate Limiting`, `Fail-Fast`, `Transactions`, `Indexing`, `Cron Jobs`
-- `Logging`
+- `Retry Strategies`, `Rate Limiting`, `Fail-Fast`, `Transactions`, `Indexing`, `Cron Jobs`, `Logging`
 
 ### 🧪 Testing & Performance
 - `Jest`, `Supertest`, `Mocking`, `K6`, `Integration & Unit Testing`, `Performance Testing`
