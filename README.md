@@ -71,6 +71,7 @@ I regularly share in-depth articles and tutorials on backend development, databa
 - [**Action's Payload in React Redux**](https://www.geeksforgeeks.org/reactjs/actions-payload-in-react-redux/)
 - [**SQL Equivalent Join in MongoDB**](https://www.geeksforgeeks.org/mongodb/how-to-perform-the-sql-join-equivalent-in-mongodb/)
 - [**Pagination with Mongoose**](https://www.geeksforgeeks.org/mongodb/how-to-paginate-with-mongoose-in-node-js/)
+- [**Sorted Vector in Java**](https://www.geeksforgeeks.org/java/implementing-sorted-vector-in-java)
 - [**JWT Collisions**](https://artnhrk.medium.com/understanding-jwt-token-collisions-why-this-happens-how-to-prevent-this-c72e1795a7cf) <br>
   ...
 
