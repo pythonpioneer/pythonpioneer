@@ -33,7 +33,7 @@ Hi, I'm **Hritik Kumar Sinha** – a passionate **Backend Developer** who enjoys
 - `WordPress Plugin Development` (Elementor, Gutenberg)
 
 ### 🛠️ Dev Tools & Workflow
-- `Git`, `GitHub`, `CI/CD Pipelines`, `Linux`, `Terminal`
+- `Git`, `GitHub`, `GitHub Actions` `CI/CD Pipelines`, `Linux`, `Terminal`
 
 ## 📁 Featured Projects
 
@@ -71,7 +71,8 @@ I regularly share in-depth articles and tutorials on backend development, databa
 - [**Action's Payload in React Redux**](https://www.geeksforgeeks.org/reactjs/actions-payload-in-react-redux/)
 - [**SQL Equivalent Join in MongoDB**](https://www.geeksforgeeks.org/mongodb/how-to-perform-the-sql-join-equivalent-in-mongodb/)
 - [**Pagination with Mongoose**](https://www.geeksforgeeks.org/mongodb/how-to-paginate-with-mongoose-in-node-js/)
-- [**JWT Collisions**](https://artnhrk.medium.com/understanding-jwt-token-collisions-why-this-happens-how-to-prevent-this-c72e1795a7cf)
+- [**JWT Collisions**](https://artnhrk.medium.com/understanding-jwt-token-collisions-why-this-happens-how-to-prevent-this-c72e1795a7cf) <br>
+  ...
 
 ## Visitor Counts
 
