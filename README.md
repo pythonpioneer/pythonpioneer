@@ -60,7 +60,7 @@ Hi, I'm **Hritik Kumar Sinha** – a passionate **Backend Developer** who enjoys
 |---|---|---|---|---|
 <img src="https://github.com/pythonpioneer/pythonpioneer/assets/85961247/5dcb5477-60fc-4f66-9032-242541485d2c" alt="linux" align="right" style="margin-right: 10px;" width="30%" />
 
-## ✍️ Articles & Blogs
+## Articles & Blogs
 
 I regularly share in-depth articles and tutorials on backend development, database optimization, API performance tuning, testing strategies, and real-world engineering challenges, with a focus on building scalable, maintainable, and developer-friendly systems.
 
