@@ -44,7 +44,7 @@ Hi, I'm **Hritik Kumar Sinha** – a passionate **Backend Developer** who enjoys
 > A backend system that alerts drivers to nearby road hazards using geo-based queries.  
 **Stack**: Node.js, Express, MongoDB, Redis, Docker
 
-### 🔹 DefiniteSEO – WordPress Plugin
+### 🔹 [DefiniteSEO – WordPress Plugin](https://definiteseo.com/wordpress-seo-plugin/)
 > Optimizes SEO content in WordPress editors like Elementor and Gutenberg.  
 **Stack**: React, TypeScript, WordPress Data API
 
