@@ -48,7 +48,7 @@ Hi, I'm **Hritik Kumar Sinha** – a passionate **Backend Developer** who enjoys
 > Optimizes SEO content in WordPress editors like Elementor and Gutenberg.  
 **Stack**: React, TypeScript, WordPress Data API
 
-### 🔹 Still-Alive - Python CLI tool &nbsp; &nbsp; &nbsp;[![PyPI Downloads](https://static.pepy.tech/badge/still-alive)](https://pepy.tech/projects/still-alive)
+### 🔹 [Still-Alive - Python CLI tool](https://pypi.org/project/still-alive/) &nbsp; &nbsp; &nbsp;[![PyPI Downloads](https://static.pepy.tech/badge/still-alive)](https://pepy.tech/projects/still-alive)
 > A command-line utility that simulates subtle mouse movements at regular intervals to prevent your system from going idle. Ideal for scenarios like giving presentations, running long tasks, or ensuring screensaver settings don't interrupt workflows.
 **Stack**: Python, CLI
 
