@@ -25,7 +25,7 @@ Hi, I'm **Hritik Kumar Sinha** – a passionate **Backend Developer** who enjoys
 - `Retry Strategies`, `Rate Limiting`, `Fail-Fast`, `Transactions`, `Indexing`, `Cron Jobs`, `Logging`
 
 ### 🧪 Testing & Performance
-- `Jest`, `Supertest`, `Mocking`, `K6`, `Integration & Unit Testing`, `Performance Testing`
+- `Jest`, `Supertest`, `Mocking`, `K6`, `Integration & Unit Testing`, `Performance Testing`, `Tap`, `node:test`
 
 ### 💻 Frontend
 - `React.js`, `Redux`, `HTML`, `CSS`, `Markdown`
