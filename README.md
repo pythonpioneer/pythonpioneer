@@ -54,7 +54,7 @@ Hi, I'm **Hritik Kumar Sinha** – a passionate **Backend Developer** who enjoys
 
 ## 📫 Contact
 
-- Email: [`hi@artnhrk.dev`](mailto:artnhrk@gmail.com)  
+- Email: [`hritik@artnhrk.dev`](mailto:artnhrk@gmail.com)  
 - GitHub: [github.com/pythonpioneer](https://github.com/pythonpioneer)  
 - CodeChef: [i_am_deadpool](https://www.codechef.com/users/i_am_deadpool)  
 
