@@ -3,7 +3,7 @@
 
 ## 📌 About Me
 
-Hi, I'm **Hritik Kumar Sinha** – a passionate **Backend Developer** who enjoys building scalable systems, robust APIs, and developer-friendly tooling. I also work on full-stack projects and love crafting solutions that are clean, fast, and well-tested.
+Hi, I'm **Hritik Kumar Sinha** – I like backend engineering, high-performance APIs, and production-grade systems, with a focus on performance, reliability, and clean code.
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=pythonpioneer&theme=onedark&no-bg=true&margin-w=4)](https://github.com/pythonpioneer) 
